@@ -1,4 +1,4 @@
-# fully-connected-neural-network lib
+# neural-network lib
 
 A neural network architecture without using any external machine learning libraries (tensorflow, keras, pytorch, etc.)
 
