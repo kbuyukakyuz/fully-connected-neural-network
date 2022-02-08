@@ -4,6 +4,6 @@ A neural network architecture without using any external machine learning librar
 
 Created generic library for a fully connected neural network. Number of neurons and number of hidden layers are arbitrary and can be changed. Implemented on Intel's dataset.
 
-All nonlinear activations functions are included. 
+All nonlinear activation functions are included. 
 
 Recommended to run on GPU.
